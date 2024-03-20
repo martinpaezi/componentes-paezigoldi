@@ -1,0 +1,28 @@
+.div-toolbar {
+  background-color: purple;
+  color: pink;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.ul {
+  padding-top: 4rem;
+}
+
+.item {
+  padding-bottom: 2rem;
+  list-style-type: none;
+}
+
+.button {
+  background-color: pink;
+  color: purple;
+  padding: 0.7rem 1rem;
+  border: 1px solid pink;
+  border-radius: 10px;
+}
+
+.button:hover {
+  background-color: violet;
+}
